@@ -1,6 +1,6 @@
 # AudioCaelum
 
-[Live Demo: gfl-ac.herokuapp.com](http://gfl-ac.herokuapp.com/)
+[Live Demo: TBD](TBD)
 
 AudioCaelum is a music sharing, discovery and entertainment web app. The source inspiration coming from SoundCloud.
 
